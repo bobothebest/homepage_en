@@ -4,7 +4,7 @@ title: about me
 ---
 <h1 style="font-family: 华文楷体;text-align:center;">Ziyuan Zhang</h1>
 
-<p>I am now a first-year graduate student majoring in Mathematical Finance and Fintech in the School of Statistics and Management of Shanghai University of Finance and Economics (SUFE). My tutor is <a href="https://yixuan.blog/">Qiu Yixuan</a>. In fall 2023, I will attend Boston University to study the Mathematical Finance & Financial Technology (MSMFT) program.I love all kinds of new entertainment activities. Recently I am trying to learn yoga and tennis. Welcome to contact me for communication：）For more information, please visit my <a href="https://bobothebest.github.io/homepage_cn/about/">chinese homepage</a><span class="love">❤</span>.</p>
+<p>I am now a first-year graduate student majoring in Mathematical Finance and Fintech in the School of Statistics and Management of Shanghai University of Finance and Economics (SUFE). My tutor is <a href="https://yixuan.blog/">Yixuan Qiu</a>. In fall 2023, I will attend Boston University to study the Mathematical Finance & Financial Technology (MSMFT) program.I love all kinds of new entertainment activities. Recently I am trying to learn yoga and tennis. Welcome to contact me for communication：）For more information, please visit my <a href="https://bobothebest.github.io/homepage_cn/about/">chinese homepage.</a><span class="love">❤</span></p>
 <br>
 
 <h2 style="font-family: 华文楷体;font-size:6;">Education</h2>
@@ -13,7 +13,7 @@ title: about me
 <p style="text-align:left;font-family: 华文楷体;"><b>Shanghai University of Finance and Economics | Data science and Big Data Technology | Bachelor Degree<span style="float:right;">2018.09-2022.07</span></b></p>
  <p style="font-family: 华文楷体;">Major courses: Deep Learning, Machine Learning, Text Mining Technology, Database, Distributed Computing, C Language, Probability Theory and Mathematical Statistics, Data Analysis and Visualization, Operations Research, Distributed Computing, Corporate Finance, Management Accounting, National Economic Accounting. </p>
  <p style="text-align:left;font-family: 华文楷体;"><b>University of Pennsylvania | Summer Vacation Studies<span style="float:right;">2019.06 - 2019.08</span></b></p>
-  <p style="font-family: 华文楷体;">mastered business English language at an intensive, immersive program. </p>
+  <p style="font-family: 华文楷体;">Mastered business English language at an intensive, immersive program. </p>
   
 <br>
 <h2 style="font-family: 华文楷体;">Awards</h2>
