@@ -4,10 +4,12 @@ title: about me
 ---
 <h1 style="font-family: 华文楷体;text-align:center;">Ziyuan Zhang</h1>
 
-<p>I am now a first-year graduate student majoring in Mathematical Finance and Fintech in the School of Statistics and Management of Shanghai University of Finance and Economics (SUFE). My tutor is <a href="https://yixuan.blog/">Yixuan Qiu</a>. In fall 2023, I will attend Boston University to study the Mathematical Finance & Financial Technology (MSMFT) program.I love all kinds of new entertainment activities. Recently I am trying to learn yoga and tennis. Welcome to contact me for communication：）For more information, please visit my <a href="https://bobothebest.github.io/homepage_cn/about/">chinese homepage.</a><span class="love">❤</span></p>
+<p>I am currently a second-year graduate student jointly trained by the <a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at <a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics</a> and the <a href="https://www.bu.edu/questrom/">Questrom School of Business</a> at <a href="https://www.bu.edu/">Boston University</a>, majoring in Mathematical Finance and Financial Technology. I am very fortunate to study under the guidance of Professor<a href="https://yixuan.blog/"> Yixuan Qiu</a>. Currently, I am pursuing my studies in Boston. I enjoy a variety of entertainment activities and am recently trying to learn yoga and tennis. I welcome friends to contact me for study and life exchanges. Here is my <a href="https://bobothebest.github.io/homepage_cn/about/">Chinese homepage</a>, and you are invited to visit my <a href="https://bobothebest.github.io/homepage_en/about/">English homepage</a> to learn more <span class="love">❤</span></p>
 <br>
 
 <h2 style="font-family: 华文楷体;font-size:6;">Education</h2>
+<p style="text-align:left;font-family: 华文楷体;"><b>Boston University | Mathematical Finance & Financial Technology | Master Degree<span style="float:right;">2023.09-2025.01</span></b></p>
+ <p style="font-family: 华文楷体;">Major courses: Programming (Python, C++), Stochastic Calculus, Fund of Finance,Corporate Risk Management.</p>
 <p style="text-align:left;font-family: 华文楷体;"><b>Shanghai University of Finance and Economics | Mathematical finance and Fintech | Master Degree<span style="float:right;">2022.09-2025.07</span></b></p>
  <p style="font-family: 华文楷体;">Major courses: Financial Stochastic Analysis, Financial Metrology, Statistical Theory and Method, Data Analysis and statistical Modeling, optimization method and its application.</p>
 <p style="text-align:left;font-family: 华文楷体;"><b>Shanghai University of Finance and Economics | Data science and Big Data Technology | Bachelor Degree<span style="float:right;">2018.09-2022.07</span></b></p>
@@ -17,7 +19,10 @@ title: about me
   
 <br>
 <h2 style="font-family: 华文楷体;">Awards</h2>
-<p style="text-align:left;font-family: 华文楷体;">Second Prize of Postgraduate Academic Scholarship<span style="float:right;">2022.12</span></p>
+<p style="text-align:left;font-family: 华文楷体;">Shenwan Hongyuan Scholarship<span style="float:right;">2023.11</span></p>
+<p style="text-align:left;font-family: 华文楷体;">Graduate Academic Scholarship - First Prize<span style="float:right;">2023.11</span></p>
+<p style="text-align:left;font-family: 华文楷体;">Title of Outstanding Student of the School of Statistics and Management, Shanghai University of Finance and Economics for the 2023-2024 Academic Year<span style="float:right;">2023.10</span></p>
+<p style="text-align:left;font-family: 华文楷体;">Graduate Academic Scholarship - Second Prize<span style="float:right;">2022.12</span></p>
 <p style="text-align:left;font-family: 华文楷体;">Third Prize of the National Postgraduate Industrial and Economic Finance Big Data Modeling and Computing Competition<span style="float:right;">2022.11</span></p>
 <p style="text-align:left;font-family: 华文楷体;">Shanghai first Prize of National College Students Mathematical Contest in Modeling <span style="float:right;">2021.11</span></p>
 <p style="text-align:left;font-family: 华文楷体;">Shanjia Scholarship<span style="float:right;">2020.06</span></p>
