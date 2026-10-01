@@ -205,13 +205,13 @@ $$E\left(\sum_{i=1}^NX_i\right)=E\left[E\left(\sum_{i=1}^NX_i\,\Big\vert \,N\rig
 
 **Series contents**
 
-1. [01 | Core Definitions]({{ site.baseurl }}{% post_url 2026-10-01-mao-notes-01-concepts %})
-2. [02 | Common Distributions]({{ site.baseurl }}{% post_url 2026-10-01-mao-notes-02-distributions %})
-3. **03 | Random Vectors, Covariance and Conditional Expectation** (this post)
-4. [04 | Characteristic Functions, LLN and CLT]({{ site.baseurl }}{% post_url 2026-10-01-mao-notes-04-limit-theorems %})
-5. [05 | Sampling Distributions, Order Statistics and Sufficiency]({{ site.baseurl }}{% post_url 2026-10-01-mao-notes-05-sampling %})
-6. [06 | Point Estimation]({{ site.baseurl }}{% post_url 2026-10-01-mao-notes-06-estimation %})
-7. [07 | Interval Estimation, Hypothesis Testing and Exercise Results]({{ site.baseurl }}{% post_url 2026-10-01-mao-notes-07-intervals-tests %})
+1. [01 · Core Definitions]({{ site.baseurl }}{% post_url 2026-10-01-mao-notes-01-concepts %})
+2. [02 · Common Distributions]({{ site.baseurl }}{% post_url 2026-10-01-mao-notes-02-distributions %})
+3. **03 · Random Vectors, Covariance and Conditional Expectation** (this post)
+4. [04 · Characteristic Functions, LLN and CLT]({{ site.baseurl }}{% post_url 2026-10-01-mao-notes-04-limit-theorems %})
+5. [05 · Sampling Distributions, Order Statistics and Sufficiency]({{ site.baseurl }}{% post_url 2026-10-01-mao-notes-05-sampling %})
+6. [06 · Point Estimation]({{ site.baseurl }}{% post_url 2026-10-01-mao-notes-06-estimation %})
+7. [07 · Interval Estimation, Hypothesis Testing and Exercise Results]({{ site.baseurl }}{% post_url 2026-10-01-mao-notes-07-intervals-tests %})
 
 [← Previous: Common Distributions]({{ site.baseurl }}{% post_url 2026-10-01-mao-notes-02-distributions %})　·　[Next: Characteristic Functions, LLN and CLT →]({{ site.baseurl }}{% post_url 2026-10-01-mao-notes-04-limit-theorems %})
 
