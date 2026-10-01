@@ -34,7 +34,7 @@
 
     {%- include scroll.html -%}
 
-    {%- if page.math -%}
+    {%- if page.math or page.layout == "home" -%}
       {% include mathjax.html %}
     {%- endif -%}
 
