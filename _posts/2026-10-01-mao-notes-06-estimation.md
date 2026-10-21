@@ -4,7 +4,6 @@ title: "Probability & Statistics Review 06 | Point Estimation: Unbiasedness, Con
 author: Ziyuan Zhang
 tags:
 - Probability & Statistics Review
-- mathematical statistics
 - study notes
 date: 2026-10-01 10:06 -0400
 toc: true

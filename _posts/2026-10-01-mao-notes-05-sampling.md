@@ -4,7 +4,6 @@ title: "Probability & Statistics Review 05 | Sampling Distributions, Order Stati
 author: Ziyuan Zhang
 tags:
 - Probability & Statistics Review
-- mathematical statistics
 - study notes
 date: 2026-10-01 10:05 -0400
 toc: true

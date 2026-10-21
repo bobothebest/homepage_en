@@ -4,7 +4,6 @@ title: "Probability & Statistics Review 07 | Interval Estimation, Hypothesis Tes
 author: Ziyuan Zhang
 tags:
 - Probability & Statistics Review
-- mathematical statistics
 - study notes
 date: 2026-10-01 10:07 -0400
 toc: true

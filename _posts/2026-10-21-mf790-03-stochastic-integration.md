@@ -4,7 +4,6 @@ title: "Stochastic Calculus Notes 03 | Stochastic Integration"
 author: Ziyuan Zhang
 tags:
 - Stochastic Calculus Notes
-- stochastic calculus
 - study notes
 date: 2026-10-21 10:03 -0400
 toc: true

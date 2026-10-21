@@ -4,8 +4,6 @@ title: "Probability & Statistics Review 01 | Core Definitions"
 author: Ziyuan Zhang
 tags:
 - Probability & Statistics Review
-- probability
-- mathematical statistics
 - study notes
 date: 2026-10-01 10:01 -0400
 toc: true

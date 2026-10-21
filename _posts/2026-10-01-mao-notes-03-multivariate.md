@@ -4,7 +4,6 @@ title: "Probability & Statistics Review 03 | Random Vectors, Covariance and Cond
 author: Ziyuan Zhang
 tags:
 - Probability & Statistics Review
-- probability
 - study notes
 date: 2026-10-01 10:03 -0400
 toc: true

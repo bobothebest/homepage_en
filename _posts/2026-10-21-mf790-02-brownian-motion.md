@@ -4,7 +4,6 @@ title: "Stochastic Calculus Notes 02 | Random Walks, Quadratic Variation and Bro
 author: Ziyuan Zhang
 tags:
 - Stochastic Calculus Notes
-- stochastic calculus
 - study notes
 date: 2026-10-21 10:02 -0400
 toc: true
