@@ -5,9 +5,6 @@ author: Ziyuan Zhang
 tags:
 - Probability & Statistics Review
 - mathematical statistics
-- parameter estimation
-- maximum likelihood
-- UMVUE
 - study notes
 date: 2026-10-01 10:06 -0400
 toc: true

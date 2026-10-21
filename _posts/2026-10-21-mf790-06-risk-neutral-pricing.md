@@ -4,11 +4,8 @@ title: "Stochastic Calculus Notes 06 | Risk-Neutral Pricing, Change of Measure a
 author: Ziyuan Zhang
 tags:
 - Stochastic Calculus Notes
-- BU MF 790
 - stochastic calculus
-- risk-neutral pricing
-- change of measure
-- Girsanov theorem
+- mathematical finance
 - study notes
 date: 2026-10-21 10:06 -0400
 toc: true

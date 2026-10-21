@@ -5,8 +5,6 @@ author: Ziyuan Zhang
 tags:
 - Probability & Statistics Review
 - probability
-- random vectors
-- conditional expectation
 - study notes
 date: 2026-10-01 10:03 -0400
 toc: true

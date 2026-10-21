@@ -5,9 +5,6 @@ author: Ziyuan Zhang
 tags:
 - Probability & Statistics Review
 - mathematical statistics
-- sampling distributions
-- order statistics
-- sufficient statistics
 - study notes
 date: 2026-10-01 10:05 -0400
 toc: true

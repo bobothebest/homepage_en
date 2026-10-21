@@ -5,9 +5,6 @@ author: Ziyuan Zhang
 tags:
 - Probability & Statistics Review
 - probability
-- characteristic functions
-- law of large numbers
-- central limit theorem
 - study notes
 date: 2026-10-01 10:04 -0400
 toc: true

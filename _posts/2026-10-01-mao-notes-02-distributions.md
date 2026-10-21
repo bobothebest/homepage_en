@@ -5,7 +5,6 @@ author: Ziyuan Zhang
 tags:
 - Probability & Statistics Review
 - probability
-- distributions
 - study notes
 date: 2026-10-01 10:02 -0400
 toc: true

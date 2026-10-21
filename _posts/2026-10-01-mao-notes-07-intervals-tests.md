@@ -5,8 +5,6 @@ author: Ziyuan Zhang
 tags:
 - Probability & Statistics Review
 - mathematical statistics
-- confidence intervals
-- hypothesis testing
 - study notes
 date: 2026-10-01 10:07 -0400
 toc: true
